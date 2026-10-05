@@ -185,4 +185,8 @@ app.post('/api/export/docx',async(req,res)=>{try{
 app.post('/api/export/pptx',async(req,res)=>{try{const p=req.body.project,d=p?.data;if(!d?.slides)return res.status(400).json({error:'Thiếu dữ liệu slide.'});const pptx=new pptxgen();pptx.layout='LAYOUT_WIDE';pptx.author='EduMath 9 AI';pptx.lang='vi-VN';pptx.title=d.title||'Bài giảng Toán 9';for(const [i,s] of d.slides.entries()){const sl=pptx.addSlide();sl.background={color:'F7FAFC'};sl.addText(s.title||'',{x:.65,y:.45,w:12,h:.7,fontSize:27,bold:true,margin:0});const bullets=(s.bullets||[]).map(x=>({text:String(x),options:{bullet:{indent:16},hanging:4}}));sl.addText(bullets,{x:.85,y:1.5,w:11.4,h:4.5,fontSize:19,breakLine:true,fit:'shrink',paraSpaceAfterPt:12});if(s.activity)sl.addText('Hoạt động: '+s.activity,{x:.85,y:6.15,w:11.4,h:.55,fontSize:13,italic:true,fit:'shrink'});if(s.speakerNotes)sl.addNotes(s.speakerNotes);sl.addText(`${i+1}/${d.slides.length}`,{x:11.8,y:7.0,w:.7,h:.2,fontSize:9,align:'right'});}const file=path.join(EXPORTS,`${safeName(d.title)}.pptx`);await pptx.writeFile({fileName:file});res.download(file,path.basename(file));}catch(e){res.status(500).json({error:e.message});}});
 
 app.use((_,res)=>res.sendFile(path.join(ROOT,'public','index.html')));
-const port=Number(process.env.PORT||3000);app.listen(port,()=>console.log(`EduMath 9 AI v2 running at http://localhost:${port}`));
+const port = Number(process.env.PORT || 3000);
+
+app.listen(port, '0.0.0.0', () => {
+  console.log(`EduMath 9 AI running on port ${port}`);
+});
