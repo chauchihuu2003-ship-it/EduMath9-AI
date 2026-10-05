@@ -1,0 +1,194 @@
+[
+  {
+    "id": "1791217569344-g34wtg",
+    "type": "plan",
+    "name": "Bài 7. Căn bậc hai và căn thức bậc hai",
+    "lessonId": "b07",
+    "createdAt": "2026-10-05T16:26:09.344Z",
+    "updatedAt": "2026-10-05T16:26:09.344Z",
+    "data": {
+      "title": "Bài 7. Căn bậc hai và căn thức bậc hai",
+      "grade": "Lớp 9",
+      "subject": "Toán",
+      "duration": "45 phút",
+      "objectives": [
+        "Hiểu khái niệm căn bậc hai số học của một số không âm",
+        "Nhận biết và xác định được điều kiện xác định của căn thức bậc hai",
+        "Vận dụng kiến thức để giải quyết một số bài tập cơ bản liên quan"
+      ],
+      "competencies": [
+        "Năng lực tư duy và lập luận toán học",
+        "Năng lực giải quyết vấn đề toán học",
+        "Năng lực giao tiếp toán học"
+      ],
+      "qualities": [
+        "Chăm chỉ",
+        "Trách nhiệm",
+        "Cẩn thận"
+      ],
+      "preparation": {
+        "teacher": [
+          "Giáo viên cần kiểm tra và bổ sung: SGK Toán 9 Tập 1 bộ Kết nối tri thức với cuộc sống",
+          "Máy chiếu, bảng phụ, phiếu học tập"
+        ],
+        "students": [
+          "Chuẩn bị sách giáo khoa, vở ghi",
+          "Ôn tập kiến thức về căn bậc hai đã học ở lớp dưới"
+        ]
+      },
+      "activities": [
+        {
+          "phase": "Gắn kết",
+          "time": "5 phút",
+          "teacher": "Giáo viên đặt vấn đề thông qua bài toán mở đầu, yêu cầu học sinh thảo luận cặp đôi để gợi nhớ về căn bậc hai.",
+          "students": "Học sinh quan sát, trao đổi và trả lời câu hỏi theo hướng dẫn của giáo viên.",
+          "product": "Câu trả lời ban đầu của học sinh về căn bậc hai.",
+          "assessment": "Đánh giá qua quan sát sự tham gia và câu trả lời của học sinh."
+        },
+        {
+          "phase": "Khám phá",
+          "time": "12 phút",
+          "teacher": "Giáo viên hướng dẫn học sinh tìm hiểu định nghĩa căn bậc hai số học và căn thức bậc hai (giáo viên cần kiểm tra SGK để lấy ví dụ cụ thể).",
+          "students": "Học sinh đọc sách, thực hiện các hoạt động khám phá và rút ra khái niệm.",
+          "product": "Ghi chép định nghĩa căn bậc hai số học và căn thức bậc hai vào vở.",
+          "assessment": "Đánh giá qua mức độ chính xác khi phát biểu định nghĩa."
+        },
+        {
+          "phase": "Giải thích",
+          "time": "10 phút",
+          "teacher": "Giáo viên phân tích các ví dụ về điều kiện xác định của căn thức bậc hai, yêu cầu học sinh làm bài tập áp dụng.",
+          "students": "Học sinh lắng nghe, ghi bài và lên bảng trình bày ví dụ theo yêu cầu.",
+          "product": "Lời giải các bài tập tìm điều kiện để căn thức bậc hai có nghĩa.",
+          "assessment": "Đánh giá qua bảng con hoặc bài làm cá nhân."
+        },
+        {
+          "phase": "Áp dụng",
+          "time": "10 phút",
+          "teacher": "Giáo viên giao phiếu học tập cho học sinh luyện tập các bài tập cơ bản.",
+          "students": "Học sinh hoạt động cá nhân hoàn thành phiếu học tập.",
+          "product": "Phiếu học tập cá nhân đã hoàn thành.",
+          "assessment": "Đánh giá qua kết quả trên phiếu học tập."
+        },
+        {
+          "phase": "Đánh giá",
+          "time": "8 phút",
+          "teacher": "Giáo viên tổng kết lại nội dung chính của bài học, giao bài tập về nhà và hướng dẫn học sinh tự đánh giá.",
+          "students": "Học sinh lắng nghe, ghi dặn dò và tự đánh giá mức độ hiểu bài.",
+          "product": "Sự tổng kết kiến thức của học sinh.",
+          "assessment": "Đánh giá tổng kết giờ học."
+        }
+      ],
+      "knowledgeSummary": [
+        "Khái niệm căn bậc hai số học của một số không âm",
+        "Điều kiện xác định của căn thức bậc hai A là A không âm"
+      ],
+      "differentiation": {
+        "support": [
+          "Hỗ trợ học sinh yếu kém thông qua các câu hỏi gợi mở nhỏ, giải thích lại định nghĩa."
+        ],
+        "extension": [
+          "Yêu cầu học sinh khá giỏi làm thêm các bài tập nâng cao về tìm điều kiện xác định phức tạp hơn"
+        ]
+      },
+      "homework": [
+        "Làm các bài tập Toán 9 tập 1 (giáo viên cần kiểm tra và bổ sung số bài tập cụ thể từ SGK)",
+        "Chuẩn bị bài học tiếp theo"
+      ],
+      "notes": [
+        "Giáo viên cần kiểm tra lại SGK Kết nối tri thức với cuộc sống để bổ sung chính xác số trang và các ví dụ cụ thể"
+      ]
+    }
+  },
+  {
+    "id": "1791217392397-dyrec9",
+    "type": "plan",
+    "name": "Bài 3. Giải bài toán bằng cách lập hệ phương trình",
+    "lessonId": "b03",
+    "createdAt": "2026-10-05T16:23:12.397Z",
+    "updatedAt": "2026-10-05T16:23:12.398Z",
+    "data": {
+      "title": "Bài 3. Giải bài toán bằng cách lập hệ phương trình",
+      "grade": "Lớp 9",
+      "subject": "Toán",
+      "duration": "45 phút",
+      "objectives": [
+        "Hiểu các bước giải bài toán bằng cách lập hệ phương trình.",
+        "Vận dụng được hệ phương trình bậc nhất hai ẩn để giải quyết một số bài toán thực tế đơn giản.",
+        "Rèn luyện tư duy logic và khả năng diễn đạt."
+      ],
+      "competencies": [
+        "Năng lực tư duy và lập luận toán học",
+        "Năng lực mô hình hóa toán học",
+        "Năng lực giải quyết vấn đề toán học"
+      ],
+      "qualities": [
+        "Chăm chỉ: Tích cực hoàn thành các nhiệm vụ học tập.",
+        "Trách nhiệm: Hợp tác tốt trong các hoạt động nhóm."
+      ],
+      "preparation": {
+        "teacher": [
+          "SGK Toán 9 Kết nối tri thức với cuộc sống Tập 1",
+          "Kế hoạch bài dạy, phiếu học tập",
+          "Máy chiếu hoặc bảng phụ"
+        ],
+        "students": [
+          "SGK Toán 9 Kết nối tri thức với cuộc sống Tập 1",
+          "Dụng cụ học tập cá nhân",
+          "Ôn tập kiến thức về giải bài toán bằng cách lập phương trình"
+        ]
+      },
+      "activities": [
+        {
+          "phase": "Khởi động",
+          "time": "5 phút",
+          "teacher": "Giao nhiệm vụ cho học sinh nhắc lại các bước giải bài toán bằng cách lập phương trình ở lớp 8.",
+          "students": "Nhớ lại kiến thức cũ, trả lời câu hỏi của giáo viên.",
+          "product": "Câu trả lời của học sinh về các bước giải bài toán bằng cách lập phương trình.",
+          "assessment": "Quan sát sự tham gia và mức độ nhớ kiến thức cũ của học sinh."
+        },
+        {
+          "phase": "Khám phá",
+          "time": "15 phút",
+          "teacher": "Hướng dẫn học sinh tìm hiểu các bước giải bài toán bằng cách lập hệ phương trình thông qua ví dụ trong SGK.",
+          "students": "Đọc SGK, thảo luận nhóm để tìm ra các bước lập hệ phương trình từ đề bài thực tế.",
+          "product": "Hệ thống các bước giải bài toán bằng cách lập hệ phương trình.",
+          "assessment": "Theo dõi thảo luận nhóm và phần trình bày của học sinh."
+        },
+        {
+          "phase": "Thực hành",
+          "time": "15 phút",
+          "teacher": "Yêu cầu học sinh làm việc cá nhân hoàn thành phiếu học tập áp dụng giải bài toán bằng cách lập hệ phương trình.",
+          "students": "Thực hiện giải bài toán trên phiếu học tập theo đúng các bước đã học.",
+          "product": "Lời giải hoàn chỉnh cho bài toán trong phiếu học tập.",
+          "assessment": "Chấm một số bài làm và nhận xét."
+        },
+        {
+          "phase": "Vận dụng",
+          "time": "10 phút",
+          "teacher": "Giao bài toán thực tế liên quan đến nội dung bài học cho học sinh vận dụng.",
+          "students": "Thảo luận cặp đôi để giải quyết bài toán thực tế.",
+          "product": "Bài giải hoàn chỉnh cho bài toán thực tế.",
+          "assessment": "Đánh giá qua kết quả trình bày của các cặp đôi."
+        }
+      ],
+      "knowledgeSummary": [
+        "Các bước giải bài toán bằng cách lập hệ phương trình: Bước 1: Lập hệ phương trình (chọn ẩn, đặt điều kiện, biểu diễn các đại lượng chưa biết, lập hai phương trình); Bước 2: Giải hệ phương trình; Bước 3: Trả lời (kiểm tra điều kiện và kết luận)."
+      ],
+      "differentiation": {
+        "support": [
+          "Giáo viên gợi ý chi tiết cách chọn ẩn và đặt điều kiện cho học sinh gặp khó khăn."
+        ],
+        "extension": [
+          "Yêu cầu học sinh khá giỏi tìm thêm cách giải khác hoặc tạo ra bài toán thực tế tương tự."
+        ]
+      },
+      "homework": [
+        "Làm các bài tập về nhà theo yêu cầu của giáo viên (giáo viên kiểm tra số trang và mục cụ thể trong SGK).",
+        "Chuẩn bị bài học tiếp theo."
+      ],
+      "notes": [
+        "Giáo viên cần kiểm tra lại số trang và các ví dụ cụ thể trong SGK Toán 9 Kết nối tri thức với cuộc sống Tập 1 để điều chỉnh cho phù hợp với thực tế lớp học."
+      ]
+    }
+  }
+]

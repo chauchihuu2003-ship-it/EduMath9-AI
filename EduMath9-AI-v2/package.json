@@ -1,0 +1,17 @@
+{
+  "name": "edumath9-ai",
+  "version": "1.0.0",
+  "description": "EduMath 9 AI - Trợ lý tạo kế hoạch bài dạy và slide Toán 9 Kết nối tri thức",
+  "type": "module",
+  "scripts": {"start":"node src/server.js","dev":"node --watch src/server.js"},
+  "dependencies": {
+    "docx":"^9.5.1",
+    "dotenv":"^17.2.2",
+    "express":"^5.1.0",
+    "mammoth":"^1.10.0",
+    "multer":"^2.0.2",
+    "openai":"^6.0.0",
+    "pdf-parse":"^2.4.5",
+    "pptxgenjs":"^4.0.1"
+  }
+}
